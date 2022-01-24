@@ -22,6 +22,8 @@
    - provide schema path
    - Name APi
    - Select database
+6. To update schema edit ".\editable_src\graphql\schema\schema.graphql"
+7. Actual lambda functions can be updated from ".\editable_src\lambda_stubs"
 
 ### Class 26 Videos
 
