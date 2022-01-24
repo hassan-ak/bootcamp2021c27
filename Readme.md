@@ -26,6 +26,7 @@
    - Select database
 6. To update schema edit ".\editable_src\graphql\schema\schema.graphql"
 7. Actual lambda functions can be updated from ".\editable_src\lambda_stubs"
+8. use `pancloud update` to update the code
 
 ### Class 26 Videos
 
