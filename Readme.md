@@ -2,7 +2,26 @@
 
 ## Panacloud CLI
 
+### Class Notes
+
 ### Sections
+
+- [Panacloud CLI](./step27a_panacloud_cli_ddb)
+
+### Steps to code
+
+1. Before installing panacloud cli following packages to be installed globally
+   - Node.js
+   - AWS CLI Version 2.x
+   - AWS CDK Version 2
+   - TypeScript
+2. Install panacloud cli using `npm install -g @panacloud/cli`
+3. Create schema for the api
+4. Create and navigate to project directory
+5. use `panacloud init` to initialize a project
+   - provide schema path
+   - Name APi
+   - Select database
 
 ### Class 26 Videos
 
