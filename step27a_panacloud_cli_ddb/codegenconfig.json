@@ -1,0 +1,1 @@
+{"saasType":"API","api":{"multitenancy":false,"nestedResolver":false,"language":"TypeScript","cloudprovider":"AWS","apiName":"step27APanacloudCliDdb","schemaPath":"./editable_src/graphql/schema/schema.graphql","apiType":"GraphQL","database":"DynamoDB (NoSQL)"}}
