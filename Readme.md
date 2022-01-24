@@ -6,7 +6,9 @@
 
 ### Sections
 
-- [Panacloud CLI](./step27a_panacloud_cli_ddb)
+- [Panacloud CLI DD](./step27a_panacloud_cli_ddb)
+- [Panacloud CLI Neptune](./step27b_panacloud_cli_neptune)
+- [Panacloud CLI Aurora](./step27c_panacloud_cli_aurora)
 
 ### Steps to code
 
