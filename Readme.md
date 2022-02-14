@@ -28,7 +28,7 @@
 7. Actual lambda functions can be updated from ".\editable_src\lambda_stubs"
 8. use `pancloud update` to update the code
 
-### Class 26 Videos
+### Class 27 Videos
 
 - [English YouTube](https://www.youtube.com/watch?v=bwoxfS8-zhE)
 - [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/923827094937525)
