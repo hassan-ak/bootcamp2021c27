@@ -1,8 +1,11 @@
-# bootcamp2021c27 - API Design, Prototyping, Development, and Testing - Everything Must and Will Become an API
+# bootcamp2021c27 - API Design, Prototyping, Development, and Testing : Everything Must and Will Become an API - Panacloud CLI - Introduction to Panacloud CLI
 
-## Panacloud CLI
+## Introduction to Panacloud CLI
 
-### Class Notes
+- Develop API's using panacloud cli
+  - DynamoDB
+  - AWS Naptune
+  - Aurora Serverless
 
 ### Sections
 
@@ -28,7 +31,7 @@
 7. Actual lambda functions can be updated from ".\editable_src\lambda_stubs"
 8. use `pancloud update` to update the code
 
-### Class 27 Videos
+### Class 27 Videos: Introduction to Panacloud CLI
 
 - [English YouTube](https://www.youtube.com/watch?v=bwoxfS8-zhE)
 - [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/923827094937525)
